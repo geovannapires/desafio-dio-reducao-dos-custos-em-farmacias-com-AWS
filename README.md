@@ -14,28 +14,23 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos espeçí­ficos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- Elastic Compute Cloud - EC2
+- Serviço da Web que disponibiliza capacidade computacional segura e redimensionável na nuvem. O EC2 oferece muitas opções que permitem criar e executar praticamente qualquer aplicação.
+- Migração do sistema legado da farmácia, utilizando o EC2 podemos hospedar a aplicação que está rodando no servidor local e ainda não foi adaptada para srviços serverless.
 
 Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- DynamoDB
+- Serviço de banco de dados NoSQL com tecnologia sem servidor que permite o desenvolvimento de aplicações modernas em qualquer escala, com um Service Level Agreement de 99.999%, permitindo uma rápida performance de leitura e gravação.
+- Cadastro de Clientes utilizando como chave primária o CPF, e contendo informações como o nome, telefone, e histórico de compras, permitindo a busca rápida na hora de uma nova venda. 
 
 Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
-
-
+- Simple Storage Service - S3
+- Serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e desempenho líderes do setor.
+- Armazenamento de receitas digitais e imagens/vídeos de produtos enviados pelos clientes durante o atendimento virtual no S3, ativando a criptografia, buscando proteger dados sensíveis dos indivíduos relacionados as compras. 
 
 ## ConclusÃ£o
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado [benefÃ­cios das ferramentas]*, o que aumentaria a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries aumentaria a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-## Anexos
-
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
 
 Assinatura do Responsável pelo Projeto:
 
