@@ -28,7 +28,7 @@ Etapa 3:
 - Serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e desempenho líderes do setor.
 - Armazenamento de receitas digitais e imagens/vídeos de produtos enviados pelos clientes durante o atendimento virtual no S3, ativando a criptografia, buscando proteger dados sensíveis dos indivíduos relacionados as compras. 
 
-## ConclusÃ£o
+## Conclusão
 A implementação de ferramentas na empresa Abstergo Industries aumentaria a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 
